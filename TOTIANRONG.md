@@ -1,4 +1,4 @@
-original repo: https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch
+original repo: https://github.com/limbo0000/AlphaPose/tree/pytorch
 
 steps:
 
